@@ -3,6 +3,6 @@ Hello, I'm MilkFrame! I collect and maintain information about various Roblox ga
 
 | **Project** | **Description** |
 | --- | --- |
-| [**MilkFrame Channel**](https://www.youtube.com/@MilkFrame) | A collection of <ins>timelapse videos</ins>, showcasing player activity within various Roblox games. (Currently on hiatus) |
+| [**MilkFrame Channel**](https://www.youtube.com/@MilkFrame) | A collection of <ins>timelapse videos</ins>, showcasing player activity within various Roblox games.<br/>(_currently on hiatus_) |
 | [**MilkBox**](https://github.com/MilkFrame/MilkBox) | A database of <ins>in-game information & leaderboards</ins> for various Roblox games. |
 | [**EpicArchive**](https://github.com/MilkFrame/EpicArchive) | An archive of <ins>player-related data</ins> for various Roblox games. |

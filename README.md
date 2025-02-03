@@ -6,3 +6,8 @@ Hello, I'm MilkFrame! I collect and maintain information about various Roblox ga
 | [**MilkFrame Channel**](https://www.youtube.com/@MilkFrame) | A collection of <ins>timelapse videos</ins>, showcasing player activity within various Roblox games.<br/>(_currently on hiatus_) |
 | [**MilkBox**](https://github.com/MilkFrame/MilkBox) | A database of <ins>in-game information & leaderboards</ins> for various Roblox games. |
 | [**EpicArchive**](https://github.com/MilkFrame/EpicArchive) | An archive of <ins>player-related data</ins> for various Roblox games. |
+
+<details>
+  <summary>Business Card</summary>
+  <img src="https://github.com/user-attachments/assets/8288ebf4-b311-4dd3-b6bb-10b0944bcdb2" title="MilkFrame Card" alt="MilkFrame Card">
+</details>
